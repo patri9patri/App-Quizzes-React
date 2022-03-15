@@ -1,0 +1,21 @@
+{
+    "en": "English",
+    "es": "Spanish",
+    "mygames": "My Games",
+    "home": "Home" ,
+    "siguiente": "Next One",
+    "anterior": "Previous One",
+    "reset": "Reset",
+    "comprobar": "Submit",
+    "resultado": "Score",
+    "tictactoe": "TicTacToe",
+    "quiz":"Quiz",
+    "player": "Player",
+    "turn": "Turn",
+    "of": "of",
+    "number": "Number",
+    "moves": "moves",
+    "body": "Welcome to our games page. You can play TicTacToe and a short 10 questions quiz. Created by Patricia Alonso del Real and Javier García Céspedes. "
+
+
+}

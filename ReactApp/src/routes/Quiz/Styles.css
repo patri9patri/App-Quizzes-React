@@ -1,0 +1,123 @@
+
+.author_img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+
+  }
+
+.attachment_img {
+    padding: 5px;
+    width: 300px;
+    display: block;
+    margin-left: 570px;
+    margin-right: auto;
+
+
+}
+
+.username_style {
+    text-align: center;
+    font-family: 'Inder';
+
+}
+
+.game_style{
+    text-align: center;
+    text-transform: uppercase;
+    color: #e90a0a;
+    font-family: 'Raleway';
+    font-size: 32px;
+
+}
+
+.no_img{
+    text-align: center;
+    color: #d54d7b; 
+    font-family: "Great Vibes", 
+    cursive; font-size: 165px; 
+    line-height: 160px; 
+    font-weight: normal;  
+    text-shadow: 0 1px 1px #fff;
+}
+
+button {
+    background-color: #4CAF50;
+    border-color: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  }
+
+  .button_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+  }
+
+  .btn-group{
+    color: white; 
+    padding: 10px 24px; 
+    cursor: pointer; 
+    display: table-row; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+  }
+
+  .resultado{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    color:#ff6f69;
+    padding: 5px;
+    line-height: 400px;
+    
+  }
+
+  .action-bar{
+    background-color:coral;
+  }
+
+  .loading{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  .contador{
+    float: left;
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#ff6f69;
+    display: block;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: auto; 
+    border:1px red;
+  }
+
+  .handwritten{
+    font-family: "Comic Sans MS";
+  }

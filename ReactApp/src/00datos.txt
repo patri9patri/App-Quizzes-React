@@ -1,0 +1,6 @@
+Hecha por Patricia Alonso del Real y Javier García Céspedes.
+Mejoras realizadas:
+    ·Índice y Reset: Añadido un índice para ver las 10 preguntas y un botón que reinicia el juego y descarga nuevas preguntas
+    ·CSS: Añadido estilos para que la app sea más bonita.
+    ·Cuenta atrás: Tienes 10 segundos para responder cada pregunta. Si estás en la última pregunta y el contador llega a 0, termina
+    el juego y se calcula la puntuación. Si pulsas sobre un botón, el contador se reinicia. 

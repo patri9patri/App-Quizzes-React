@@ -1,0 +1,20 @@
+{
+    "es": "Español",
+    "en": "Inglés",
+    "mygames": "Mis Juegos",
+    "home": "Página Principal",
+    "siguiente": "Siguiente",
+    "anterior": "Anterior",
+    "reset": "Reiniciar",
+    "comprobar": "Comprobar",
+    "resultado": "Resultado",
+    "tictactoe": "TresEnRaya",
+    "quiz": "Preguntas",
+    "player": "Jugador",
+    "turn": "Turno",
+    "of": "del",
+    "number": "Número",
+    "moves": "movimientos",
+    "body": "Bienvenido a nuestra página de juegos. Puedes jugar al tres en raya y hacer un pequeño test de 10 preguntas. Hecho por Patricia Alonso del Real y Javier García Céspedes."
+    
+}
