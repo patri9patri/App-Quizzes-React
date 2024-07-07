@@ -1,2 +1,2 @@
 # App-Quizzes-React
-React application with minigames.
+React web application with minigames.
